@@ -1,0 +1,39 @@
+# Creative Tabs
+itemGroup.EnchantingGems=§dEnchanting Gems
+
+# Blocks
+tile.enchantinggems.block.aquamarine.name=Aquamarine Block
+tile.enchantinggems.block.bloodstone.name=Bloodstone Block
+tile.enchantinggems.block.bloodstone.v2.name=Bloodstone v2 Block
+tile.enchantinggems.block.jade.name=Jade Block
+tile.enchantinggems.block.onyx.name=Onyx Block
+tile.enchantinggems.block.onyx.v2.name=Onyx v2 Block
+tile.enchantinggems.block.opal.name=Opal Block
+tile.enchantinggems.block.pearl.name=Pearl Block
+tile.enchantinggems.block.ruby.name=Ruby Block
+tile.enchantinggems.block.sapphire.name=Sapphire Block
+tile.enchantinggems.block.turquoise.name=Turquoise Block
+tile.enchantinggems.block.turquoise.v2.name=Turquoise v2 Block
+
+# Ores
+tile.enchantinggems.ore.onyx.name=Onyx Ore
+tile.enchantinggems.ore.opal.name=Opal Ore
+tile.enchantinggems.ore.ruby.name=Ruby Ore
+tile.enchantinggems.ore.sapphire.name=Sapphire Ore
+tile.enchantinggems.ore.turquoise.name=Turquoise Ore
+
+# Items
+item.enchantinggems.amber.name=Amber
+item.enchantinggems.amber.v2.name=Amber v2
+item.enchantinggems.amethyst.name=Amethyst
+item.enchantinggems.jade.name=Jade
+item.enchantinggems.opal.name=Opal
+item.enchantinggems.pearl.name=Pearl
+item.enchantinggems.ruby.name=Ruby
+item.enchantinggems.sapphire.name=Sapphire
+item.enchantinggems.turquoise.name=Turquoise
+item.enchantinggems.aquamarine.name=Aquamarine
+item.enchantinggems.onyx.name=Onyx
+item.enchantinggems.bloodstone.name=Bloodstone
+item.enchantinggems.moonstone.name=Moonstone
+item.enchantinggems.tigerseye.name=Tiger's Eye

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EnchantingGems",
+  "name": "Enchanting Gems",
+  "description": "Adds new gems with the ability to enchant items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TechieCrow", "ChewableBliss"],
+  "credits": "TechieCrow (Coding) & ChewableBliss (Textures) & The Minecraft Community (For being awesome <3)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
