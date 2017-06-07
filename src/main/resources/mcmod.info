@@ -6,7 +6,7 @@
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
-  "updateUrl": "",
+  "updateUrl": "https://raw.githubusercontent.com/TechieCrow/Enchanting_Gems/master/src/main/update.json",
   "authorList": ["TechieCrow", "ChewableBliss"],
   "credits": "TechieCrow (Coding) & ChewableBliss (Textures) & The Minecraft Community (For being awesome <3)",
   "logoFile": "",
