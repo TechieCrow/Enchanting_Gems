@@ -1,16 +1,17 @@
 [
 {
-  "modid": "EnchantingGems",
-  "name": "Enchanting Gems",
-  "description": "Adds new gems with the ability to enchant items.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "https://raw.githubusercontent.com/TechieCrow/Enchanting_Gems/master/src/main/update.json",
-  "authorList": ["TechieCrow", "ChewableBliss"],
-  "credits": "TechieCrow (Coding) & ChewableBliss (Textures) & The Minecraft Community (For being awesome <3)",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+"modid": "enchantinggems",
+"name": "Enchanting Gems",
+"description": "Still In Dev.",
+"mcversion": "1.7.10",
+"version": "1.0.0",
+"url": "",
+"updateUrl": "",
+"authors": [ "TechieCrow", "ChewableBliss" ],
+"credits": "TechieCrow (Coiding and ChewableBliss (Textures))",
+"logoFile": "",
+"screenshots": [],
+"parent":"",
+"dependencies": []
 }
 ]
