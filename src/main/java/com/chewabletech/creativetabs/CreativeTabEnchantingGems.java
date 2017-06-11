@@ -1,13 +1,8 @@
 package com.chewabletech.creativetabs;
 
 import com.chewabletech.init.ModItems;
-import com.chewabletech.items.ItemEnchantingGems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.Random;
 
 public class CreativeTabEnchantingGems
 {
